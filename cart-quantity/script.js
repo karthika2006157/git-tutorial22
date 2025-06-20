@@ -20,8 +20,3 @@ function resetCart(){
     localStorage.setItem("cartQuantity",cartQuantity);
     console.log("The cart has been reset");
 }
-
-//camel case
-//Pascal case
-//kebab case
-//snake cse
